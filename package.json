@@ -1,0 +1,31 @@
+{
+  "name": "afraido-botto",
+  "version": "1.0.0",
+  "description": "Gangsta bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afraid4Life",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "ascii-table": "0.0.9",
+    "covidapi": "^0.4.3",
+    "discord.js": "^12.2.0",
+    "furros": "0.0.4",
+    "give-me-a-joke": "^0.3.2",
+    "joke": "0.0.1-1",
+    "jokes": "0.0.2",
+    "mathjs": "^7.0.0",
+    "moment": "^2.25.3",
+    "one-liner-joke": "^1.2.0",
+    "openweather-apis": "^4.3.1",
+    "random-puppy": "^1.1.0",
+    "unirest": "^0.6.0",
+    "weather": "^1.0.4",
+    "ytdl-core": "^2.1.2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
