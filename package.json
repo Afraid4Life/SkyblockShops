@@ -17,7 +17,7 @@
     "give-me-a-joke": "^0.3.2",
     "joke": "0.0.1-1",
     "jokes": "0.0.2",
-    "mathjs": "^7.0.0",
+    "mathjs": "^7.5.1",
     "moment": "^2.25.3",
     "one-liner-joke": "^1.2.0",
     "openweather-apis": "^4.3.1",
